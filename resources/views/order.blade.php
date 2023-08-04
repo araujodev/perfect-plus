@@ -51,6 +51,10 @@
                             <p>Cobrança pelo cartão de crédito confirmada.</p>
                         @endif
                     @endif
+
+                    <br>
+                    <br>
+                <p> Obrigado(a) pela sua compra!</p>
                 </p>
             </div>
         </div>
