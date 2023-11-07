@@ -20,5 +20,4 @@ echo "Running NPM..."
 npm install
 npm run build
 
-
 echo "done deploying"
